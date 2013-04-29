@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Letterpressing</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+    <link href="./css/main.css" rel="stylesheet">
+  </head>
+  <body>
+    <p>Let's take a <a target="_blank" href="https://github.com/atebits/Words">Letterpress Word List</a> and play with it.</p>
+    <p>Ok, let's also take <a target="_blank" href="http://d3js.org">D3.js</a> and read some <a target="_blank" href="https://github.com/mbostock/d3/wiki/Gallery">examples</a>.</p>
+    <p>Let's build a prefix tree to see that is most popular prefix in the English language. It's interesting what there are 2&nbsp;371 word starting with "over".</p>
+    <div id="prefix-frequency"></div>
+    <p>What about the frequency of letters in English? Here it is:</p>
+    <div id="letter-frequency"></div>
+    <p>And the last simple example. Letter sequence frequency. As you can see, the most frequent pattern – "es" takes only 0.05% of total count of patterns occurence.</p>
+    <div id="pattern-frequency"></div>
+    <p>That's all for now. Check this code on <a target="_blank" href="http://romaklimenko.com/words">GitHub</a>. Also check the <a target="_blank" href="http://romaklimenko.com/cheat">Cheat</a> – cheating application for <a target="_blank" href="http://www.atebits.com">Letterpress</a> game.</p>
+    <script data-main="./js/main" src="./js/vendor/require.js"></script>
+    <script type="text/javascript">
+
+      var _gaq = _gaq || [];
+      _gaq.push(['_setAccount', 'UA-38187669-1']);
+      _gaq.push(['_trackPageview']);
+
+      (function() {
+        var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+        ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+      })();
+
+    </script>
+    <script type="text/javascript">
+      var _gauges = _gauges || [];
+      (function() {
+        var t   = document.createElement('script');
+        t.type  = 'text/javascript';
+        t.async = true;
+        t.id    = 'gauges-tracker';
+        t.setAttribute('data-site-id', '4fa27221613f5d641e0000d0');
+        t.src = '//secure.gaug.es/track.js';
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(t, s);
+      })();
+    </script>
+  </body>
+</html>

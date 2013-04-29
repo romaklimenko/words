@@ -1,0 +1,49 @@
+@black: #000000;
+@blue: #05B0FE;
+@red: #FE402A;
+
+.box-size (@heigth: 600px, @width: 800px) {
+  height: @heigth;
+  width: @width;
+}
+
+// letter frequency
+
+#letter-frequency {
+  .box-size;
+}
+
+.axis path,
+.axis line {
+  fill: none;
+  stroke: @black;
+  shape-rendering: crispEdges;
+}
+
+.bar {
+  fill: @blue;
+}
+
+// prefix frequency
+
+#prefix-frequency {
+  .box-size;
+}
+
+circle.node {
+  cursor: pointer;
+  stroke: @blue;
+  stroke-width: 1.5px;
+}
+
+line.link {
+  fill: none;
+  stroke: @blue;
+  stroke-width: 1.5px;
+}
+
+// pattern frequency
+
+table, th, tr, td {
+  border: @blue 1px solid;
+}

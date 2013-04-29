@@ -1,0 +1,122 @@
+[
+ {
+  "pattern": "Other",
+  "count": 10643262
+ },
+ {
+  "pattern": "es",
+  "count": 60364
+ },
+ {
+  "pattern": "in",
+  "count": 51814
+ },
+ {
+  "pattern": "er",
+  "count": 49978
+ },
+ {
+  "pattern": "ti",
+  "count": 37946
+ },
+ {
+  "pattern": "on",
+  "count": 30883
+ },
+ {
+  "pattern": "at",
+  "count": 30830
+ },
+ {
+  "pattern": "te",
+  "count": 30730
+ },
+ {
+  "pattern": "is",
+  "count": 30258
+ },
+ {
+  "pattern": "re",
+  "count": 29849
+ },
+ {
+  "pattern": "ng",
+  "count": 29342
+ },
+ {
+  "pattern": "en",
+  "count": 26858
+ },
+ {
+  "pattern": "st",
+  "count": 26451
+ },
+ {
+  "pattern": "ed",
+  "count": 26203
+ },
+ {
+  "pattern": "ri",
+  "count": 25586
+ },
+ {
+  "pattern": "al",
+  "count": 25556
+ },
+ {
+  "pattern": "ing",
+  "count": 25320
+ },
+ {
+  "pattern": "li",
+  "count": 25281
+ },
+ {
+  "pattern": "ra",
+  "count": 24503
+ },
+ {
+  "pattern": "an",
+  "count": 24450
+ },
+ {
+  "pattern": "le",
+  "count": 24144
+ },
+ {
+  "pattern": "ne",
+  "count": 23408
+ },
+ {
+  "pattern": "se",
+  "count": 22729
+ },
+ {
+  "pattern": "ar",
+  "count": 21698
+ },
+ {
+  "pattern": "ic",
+  "count": 20891
+ },
+ {
+  "pattern": "or",
+  "count": 19955
+ },
+ {
+  "pattern": "ro",
+  "count": 19700
+ },
+ {
+  "pattern": "nt",
+  "count": 19425
+ },
+ {
+  "pattern": "it",
+  "count": 17586
+ },
+ {
+  "pattern": "ie",
+  "count": 17008
+ }
+]

@@ -1,0 +1,33 @@
+#letter-frequency {
+  height: 600px;
+  width: 800px;
+}
+.axis path,
+.axis line {
+  fill: none;
+  stroke: #000000;
+  shape-rendering: crispEdges;
+}
+.bar {
+  fill: #05b0fe;
+}
+#prefix-frequency {
+  height: 600px;
+  width: 800px;
+}
+circle.node {
+  cursor: pointer;
+  stroke: #05b0fe;
+  stroke-width: 1.5px;
+}
+line.link {
+  fill: none;
+  stroke: #05b0fe;
+  stroke-width: 1.5px;
+}
+table,
+th,
+tr,
+td {
+  border: #05b0fe 1px solid;
+}
